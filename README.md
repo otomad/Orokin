@@ -1,6 +1,8 @@
 # Orokin
 
-The Orokin font of Warframe
+The Orokin font of Warframe.
+
+Created by FontCreator.
 
 ----
 这是《星际战甲》里奥罗金文的字体。通过网上图片制作而成。
